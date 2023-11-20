@@ -9,4 +9,6 @@ This is suppose to be self-directed, unlike my YDCP workshop
 I'm using this video to learn the basics:
 https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
+I'm also using PyCharm to write in Python
+
 :3
