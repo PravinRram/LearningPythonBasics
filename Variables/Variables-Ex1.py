@@ -2,10 +2,8 @@ name = 'John Smith'
 age = 20
 existingPatient = False
 
-'''
-Shown in vid:
+# Alt method:
 
-full-name = 'John Smith'
+full_name = 'John Smith'
 age = 20
 is_New = True
-'''
